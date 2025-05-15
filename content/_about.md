@@ -22,6 +22,6 @@ The 'life goal' was naturally to be a commercial pilot, but as they say, 'life h
 
 > Like aviation too? How about you check out --> [ComeFlyWithSeab?](https://comeflywithseab.com "ComeFlyWithSeab") 
 
-![Seab working from home](/img/IMG_1315.JPG "Seab working from home")
+![Seab working from home](/img/seabwfh.webp "Seab working from home")
 
 > ###### `This site was created using Visual Studio Code, Markdown, Hugo, GitHub and AWS Amplify`
