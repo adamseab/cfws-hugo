@@ -1,3 +1,106 @@
-baseURL: https://example.org/
-languageCode: en-us
-title: My New Hugo Site
+baseURL: https://comeflywithseab.com
+# languageCode: en-us
+title: ComeFlyWithSeab
+pagination:
+  pagerSize: 3
+
+theme: ["PaperMod"]
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+# googleAnalytics: UA-123-45
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: Adam Seaborne
+    description: "Adam Seaborne's links and CV"
+    disableAnchoredHeadings: true
+
+    # images: ["<link or path of image for opengraph, twitter-cards>"]
+
+    ShowReadingTime: false
+    ShowShareButtons: false
+    comments: false
+    defaultTheme: dark
+    disableThemeToggle: false
+    disableSpecial1stPost: false
+
+    # customCSS:
+    #     - /assets/css/extended/custom-css.css
+
+    assets:
+        favicon: "./static/img/cloud.ico"
+        favicon16x16: "<link / abs url>"
+        favicon32x32: "./img/cloud.ico"
+        apple_touch_icon: "<link / abs url>"
+        safari_pinned_tab: "<link / abs url>"
+
+    # label:
+        # text: "Home"
+        # icon: /apple-touch-icon.png
+        # iconHeight: 35
+
+    # profile-mode
+    profileMode:
+        enabled: true # needs to be explicitly set
+        title: Adam Seaborne 🛫
+        # imageUrl: ""
+        # imageTitle: my image
+        # imageWidth: 120 # custom size
+        # imageHeight: 120 # custom size
+        # buttons:
+            # - name: Archive
+            #  url: "/archive"
+            # - name: Github
+            #  url: "https://github.com/"
+            # - name: CV
+            #   url: /cv/
+            # - name: Tags
+            #  url: tags
+
+      # home-info mode
+      # homeInfoParams:
+        # Title: ""
+        # Content: 
+
+    socialIcons:
+        - name: twitter
+          url: "https://twitter.com/adamseab"
+        - name: instagram
+          url: "https://instagram.com/seabeh"
+        - name: facebook
+          url: "https://www.facebook.com/seabeh"
+        - name: linkedin
+          url: "https://linkedin.com/in/adamseab"
+        - name: paypal
+          url: "https://paypal.me/Seabs"
+        - name: github
+          url: "https://github.com/adamseab"
+        - name: email
+          url: "mailto:adam@theseabs.com"
+
+    # analytics:
+    #   google:
+    #       SiteVerificationTag: "XYZabc"
+
+menu:
+    main:
+        - identifier: about
+          name: About
+          url: /_about
+          weight: 10
+        - identifier: cv
+          name: CV
+          url: /_cv
+          weight: 20
+        - identifier: Github
+          name: Github
+          url: https://github.com/adamseab
+          weight: 30

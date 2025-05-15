@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ComeFlyWithSeab</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on ComeFlyWithSeab</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Seab</title>
+      <link>http://localhost:1313/_about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_about/</guid>
+      <description>&lt;h3 id=&#34;hi-folks-im-adam---but-most-call-me-seab&#34;&gt;Hi folks, I&amp;rsquo;m Adam - but most call me Seab!&lt;/h3&gt;
+&lt;h4 id=&#34;im-a-bit-of-an-aviation-and-aerospace-nerd-so-naturally-i-love-travel-planes-being-in-airports-and-anything-space-im-also-a-student-private-pilot&#34;&gt;I&amp;rsquo;m a bit of an aviation and aerospace nerd, so naturally I love travel, planes, being in airports and anything space. I&amp;rsquo;m also a student private pilot.&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;(A typical Sagittarius, if you&amp;rsquo;re into that kind of thing?!)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m a dedicated husband, dad, cat-dad, occasional blogger and photo taker.&lt;/p&gt;
+&lt;p&gt;I also love gaming, cars, cloud engineering and rejoining in the EU. 🇪🇺&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>http://localhost:1313/_cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_cv/</guid>
+      <description>&lt;h3 id=&#34;experience&#34;&gt;Experience&lt;/h3&gt;
+&lt;h4 id=&#34;dvla-swansea&#34;&gt;DVLA Swansea&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;AWS DevOps Cloud Engineer&lt;/strong&gt;, Associate - November 2022 - Present; Junior - September 2020 - November 2022;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I&amp;rsquo;m currently working as an Associate Cloud Engineer @ DVLA Swansea - I started as a Junior Engineer as a member of the 2020 Cloud Academy.
+During that period, I passed my AWS Cloud Practitioner, Solutions Architect Associate and SysOps Administrator Associate exams and I&amp;rsquo;m now working towards my Developer Associate.&lt;br&gt;
+I&amp;rsquo;m part of a Squad that handles the implementation and upkeep of various tooling for all other internal cloud and app squads to use, as well as being hands on with the DVLA Kubernetes based infrastructure using AWS EKS.&lt;br&gt;
+I&amp;rsquo;m also familiar with version control, CI/CD pipelines and their tools, such as Drone, Bitbucket, Spinnaker as well as AWS CodePipeline.
+I am becoming more confident with Linux and its various flavours and experimenting with AWS Image Builder and I&amp;rsquo;m also comfortable with AWS basics like EC2, S3, IAM and many others.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
