@@ -15,7 +15,7 @@ title: 'About Seab'
 
 I'm a dedicated husband, dad, cat-dad, occasional blogger and photo taker.
 
-I also love gaming, cars, cloud engineering and rejoining in the EU. 🇪🇺
+I also love gaming, cars, cloud engineering, pro wrestling, still being a Pokémon enthusiast (#SquirtleSquad) and being European. 🇪🇺
 
 I'm still constantly learning and gaining confidence in the Cloud Engineering space and I'm finding my footing as a Cloud / DevOps Engineer.  
 The 'life goal' was naturally to be a commercial pilot, but as they say, 'life happens' - but fortunately with this new direction, I can still definitely say my *head is very much in the cloud(s)!*
