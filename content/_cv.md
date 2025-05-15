@@ -7,7 +7,9 @@ draft: false
 
 #### DVLA Swansea
 
-> **AWS DevOps Cloud Engineer**, Associate - November 2022 - Present; Junior - September 2020 - November 2022;
+> **AWS DevOps Cloud Engineer**
+> Associate - November 2022 - Present; 
+> Junior - September 2020 - November 2022;
 >> I'm currently working as an Associate Cloud Engineer @ DVLA Swansea - I started as a Junior Engineer as a member of the 2020 Cloud Academy.
 During that period, I passed my AWS Cloud Practitioner, Solutions Architect Associate and SysOps Administrator Associate exams and I'm now working towards my Developer Associate.  
 I'm part of a Squad that handles the implementation and upkeep of various tooling for all other internal cloud and app squads to use, as well as being hands on with the DVLA Kubernetes based infrastructure using AWS EKS.  
@@ -27,11 +29,11 @@ Throughout the role, I utilised my excellent communication skills in both in wri
 > **Personalised Registrations Administrator**, June 2013 - Feb 2014;
 >> Processed documents from the general public and keying applications for Personalised Registration transactions.
 
-#### ASDA Swansea
+<!-- #### ASDA Swansea
 
 > **Home Shopping Delivery Driver** 
 >> Delivered goods to ASDA online grocery customers all across South West Wales. Required particular care with van checks and inspections as well as driving swiftly but courteously and providing a first class customer service at the doorstep.  
-Also a RoSPA assessed and qualified driver and trained to assess other drivers in the department for regular proficiency checks as well as reviewing new drivers as part of their interview process. 
+Also a RoSPA assessed and qualified driver and trained to assess other drivers in the department for regular proficiency checks as well as reviewing new drivers as part of their interview process.  -->
 
 ### Qualifications
 
@@ -43,9 +45,9 @@ ITIL V3 Foundation
 ITIL V3 CSI  
 BCS DevOps  
 BCS Agile  
-NVQ Level 2 in Business Administration  
+<!-- NVQ Level 2 in Business Administration  
 HND in Popular Music  
-9 GCSEs at Grades A*-B
+9 GCSEs at Grades A*-B -->
 
 ### Particular Skills
 

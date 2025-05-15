@@ -1,11 +1,6 @@
 ---
 title: 'About Seab'
-
 ---
-
-<!-- <h2 class="no-anchor">About Me</h2> -->
-
-
 
 ### Hi folks, I'm Adam - but most call me Seab!  
 
@@ -24,4 +19,4 @@ The 'life goal' was naturally to be a commercial pilot, but as they say, 'life h
 
 ![Seab working from home](/img/seabwfh.webp "Seab working from home")
 
-> ###### `This site was created using Visual Studio Code, Markdown, Hugo, GitHub and AWS Amplify`
+> ###### `This site was created using Hugo with the PaperMod theme and hosted on AWS using Amplify`

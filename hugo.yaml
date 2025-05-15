@@ -84,7 +84,7 @@ params:
         - name: github
           url: "https://github.com/adamseab"
         - name: email
-          url: "mailto:adam@theseabs.com"
+          url: "mailto:adam@comeflywithseab.com"
 
     # analytics:
     #   google:
