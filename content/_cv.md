@@ -7,7 +7,7 @@ draft: false
 
 #### DVLA Swansea
 
-> **AWS DevOps Cloud Engineer**
+> **AWS Cloud Engineer**
 > Associate - November 2022 - Present; 
 > Junior - September 2020 - November 2022;
 >> I'm currently working as an Associate Cloud Engineer @ DVLA Swansea - I started as a Junior Engineer as a member of the 2020 Cloud Academy.

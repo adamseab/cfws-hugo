@@ -1,5 +1,5 @@
 baseURL: https://comeflywithseab.com
-# languageCode: en-us
+languageCode: en-uk
 title: ComeFlyWithSeab
 pagination:
   pagerSize: 3
@@ -29,18 +29,18 @@ params:
     ShowShareButtons: false
     comments: false
     defaultTheme: dark
-    disableThemeToggle: false
+    disableThemeToggle: true
     disableSpecial1stPost: false
 
     # customCSS:
     #     - /assets/css/extended/custom-css.css
 
     assets:
-        favicon: "./static/img/cloud.ico"
-        favicon16x16: "<link / abs url>"
+        favicon: "./img/cloud.ico"
+        favicon16x16: "./img/cloud.ico"
         favicon32x32: "./img/cloud.ico"
-        apple_touch_icon: "<link / abs url>"
-        safari_pinned_tab: "<link / abs url>"
+        # apple_touch_icon: "<link / abs url>"
+        # safari_pinned_tab: "<link / abs url>"
 
     # label:
         # text: "Home"
@@ -56,14 +56,14 @@ params:
         # imageWidth: 120 # custom size
         # imageHeight: 120 # custom size
         # buttons:
-            # - name: Archive
-            #  url: "/archive"
-            # - name: Github
-            #  url: "https://github.com/"
-            # - name: CV
-            #   url: /cv/
-            # - name: Tags
-            #  url: tags
+        # - name: Archive
+        #   url: "/archive"
+        # - name: Github
+        #   url: "https://github.com/"
+        # - name: CV
+        #   url: /cv/
+        # - name: Tags
+        #   url: tags
 
       # home-info mode
       # homeInfoParams:
@@ -71,16 +71,16 @@ params:
         # Content: 
 
     socialIcons:
-        - name: twitter
-          url: "https://twitter.com/adamseab"
+        - name: x
+          url: "https://x.com/adamseab"
         - name: instagram
           url: "https://instagram.com/seabeh"
         - name: facebook
           url: "https://www.facebook.com/seabeh"
         - name: linkedin
           url: "https://linkedin.com/in/adamseab"
-        - name: paypal
-          url: "https://paypal.me/Seabs"
+        # - name: paypal
+        #   url: "https://paypal.me/Seabs"
         - name: github
           url: "https://github.com/adamseab"
         - name: email
