@@ -2,12 +2,12 @@
 title: 'Curriculum Vitae'
 draft: false
 ---
-
+<!-- 
 ### Experience
 
 #### DVLA Swansea
 
-> **AWS DevOps Cloud Engineer**
+> **AWS Cloud Engineer**
 > Associate - November 2022 - Present; 
 > Junior - September 2020 - November 2022;
 >> I'm currently working as an Associate Cloud Engineer @ DVLA Swansea - I started as a Junior Engineer as a member of the 2020 Cloud Academy.
@@ -34,7 +34,7 @@ Throughout the role, I utilised my excellent communication skills in both in wri
 > **Home Shopping Delivery Driver** 
 >> Delivered goods to ASDA online grocery customers all across South West Wales. Required particular care with van checks and inspections as well as driving swiftly but courteously and providing a first class customer service at the doorstep.  
 Also a RoSPA assessed and qualified driver and trained to assess other drivers in the department for regular proficiency checks as well as reviewing new drivers as part of their interview process.  -->
-
+<!-- 
 ### Qualifications
 
 > AWS Solutions Architect Associate  
@@ -49,7 +49,7 @@ BCS Agile
 HND in Popular Music  
 9 GCSEs at Grades A*-B -->
 
-### Particular Skills
+<!-- ### Particular Skills
 
 >Aside from IT, I have extensive customer service experience and thrive in providing a top class experience for a customer.
 
@@ -57,4 +57,39 @@ HND in Popular Music
 
 > I am comfortable with most IT operating systems and common programs, including but not limited to MacOS, Windows, Linux, iOS, Office, Teams, Zoom, VS Code, Git and many more. I also love tinkering with my AWS personal account and the occasional Raspberry Pi!
 
->> For a full CV - drop me an e-mail (adam@comeflywithseab.com)
+>> For a full CV - drop me an e-mail (adam@comeflywithseab.com) --> 
+
+
+## 👨🏻‍💻 Professional Summary
+
+Cloud Engineer with 4+ years experience working in AWS-focused environments. Comfortable across infrastructure-as-code, CI/CD pipelines, container orchestration (Kubernetes), and platform troubleshooting. Strong interest in automation, observability, and building simple solutions to complex problems.
+
+## 🛠️ Key Skills & Tools
+
+- **Cloud**: AWS (EC2, S3, IAM, VPC, Lambda, etc.), EFS, Route 53
+- **IaC / Automation**: Terraform, Ansible, AWS CDK, GitHub Actions, ArgoCD, Drone
+- **Containers**: Docker, Kubernetes (EKS), Helm
+- **CI/CD**: GitHub Actions, ArgoCD, Drone CI
+- **Monitoring**: Prometheus, Grafana, Instana
+- **Other**: Git, Bash, Python (basic), Linux admin
+
+## 🧳 Experience
+
+### 🚧 Cloud Engineer – [Current Company]  
+*Jan 2023 – Present*
+
+- Supporting a platform running across multiple AWS accounts with EKS, ArgoCD, and custom tooling
+- Working closely with dev teams to improve deployment reliability and reduce incident noise
+- Helped streamline CI/CD with Drone and GitHub Actions
+
+### 🔧 Cloud Engineer – [Previous Company]  
+*2020 – 2022*
+
+- Maintained and enhanced AWS-based infrastructure using Terraform
+- Assisted with incident response and platform reliability improvements
+- Introduced better documentation and knowledge sharing across the team
+
+## 🎓 Education & Certs _(Optional)_
+
+- AWS Certified Solutions Architect – Associate *(valid until 2026)*
+- BSc Computing – [Uni Name], [Year]
