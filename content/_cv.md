@@ -22,10 +22,10 @@ Throughout the role, I utilised my excellent communication skills in both in wri
 >> I was a member of the highly rated AFRL/RaV Helpdesk support team, assisting industry users such as car manufacturers and dealerships with their queries, new user set-ups and handling issues via telephone and e-mail and raising these accordingly. I would also regularly correspond with the industry with updates via e-mail and handling complaints and reporting any issues or downtime.
 
 > **Personalised Registrations Team Supervisor**, Feb 2014 - March 2016;
->> Subject matter expert for Personalised Registrations, provided guidance to staff, training for new starters as well as carrying out checking and casework duties as required. Reported volumes of work completed and issued work to team. Also deputised regularly as Line Manager for a number of the teams. Attended senior management meetings and cascaded updates accordingly. 
+<!-- >> Subject matter expert for Personalised Registrations, provided guidance to staff, training for new starters as well as carrying out checking and casework duties as required. Reported volumes of work completed and issued work to team. Also deputised regularly as Line Manager for a number of the teams. Attended senior management meetings and cascaded updates accordingly.  -->
 
 > **Personalised Registrations Administrator**, June 2013 - Feb 2014;
->> Processed documents from the general public and keying applications for Personalised Registration transactions.
+<!-- >> Processed documents from the general public and keying applications for Personalised Registration transactions. -->
 
 <!-- #### ASDA Swansea
 
@@ -38,7 +38,7 @@ Also a RoSPA assessed and qualified driver and trained to assess other drivers i
 > AWS Solutions Architect Associate  
 AWS SysOps Administrator Associate  
 AWS Cloud Practitioner 
-Certified Scrum Developer (Scrum Alliance)
+Certified Scrum Developer (Scrum Alliance) 
 ITIL V4 Foundation  
 ITIL V3 Foundation  
 ITIL V3 CSI  
