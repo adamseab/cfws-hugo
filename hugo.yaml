@@ -20,7 +20,7 @@ minify:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Adam Seaborne
-    description: "Adam Seaborne's links and CV"
+    description: "Adam Seab's links and CV"
     disableAnchoredHeadings: true
 
     # images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -32,20 +32,20 @@ params:
     disableThemeToggle: true
     disableSpecial1stPost: false
 
-    # customCSS:
-    #     - /assets/css/extended/custom-css.css
+
 
     assets:
+        # customCSS: ["assets/css/extended/custom.css"]
         favicon: "./img/cloud.ico"
         favicon16x16: "./img/cloud.ico"
         favicon32x32: "./img/cloud.ico"
         # apple_touch_icon: "<link / abs url>"
         # safari_pinned_tab: "<link / abs url>"
 
-    # label:
-        # text: "Home"
-        # icon: /apple-touch-icon.png
-        # iconHeight: 35
+    label:
+        text: " "
+        icon: "./img/logo.png"
+        iconHeight: 50
 
     # profile-mode
     profileMode:

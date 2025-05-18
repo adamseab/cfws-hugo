@@ -7,9 +7,7 @@ draft: false
 
 #### DVLA Swansea
 
-> **AWS DevOps Cloud Engineer**
-> Associate - November 2022 - Present; 
-> Junior - September 2020 - November 2022;
+> **AWS DevOps Cloud Engineer** September 2020 - Present;
 >> I'm currently working as an Associate Cloud Engineer @ DVLA Swansea - I started as a Junior Engineer as a member of the 2020 Cloud Academy.
 During that period, I passed my AWS Cloud Practitioner, Solutions Architect Associate and SysOps Administrator Associate exams and I'm now working towards my Developer Associate.  
 I'm part of a Squad that handles the implementation and upkeep of various tooling for all other internal cloud and app squads to use, as well as being hands on with the DVLA Kubernetes based infrastructure using AWS EKS.  
@@ -39,7 +37,8 @@ Also a RoSPA assessed and qualified driver and trained to assess other drivers i
 
 > AWS Solutions Architect Associate  
 AWS SysOps Administrator Associate  
-AWS Cloud Practitioner  
+AWS Cloud Practitioner 
+Certified Scrum Developer (Scrum Alliance)
 ITIL V4 Foundation  
 ITIL V3 Foundation  
 ITIL V3 CSI  
@@ -57,4 +56,4 @@ HND in Popular Music
 
 > I am comfortable with most IT operating systems and common programs, including but not limited to MacOS, Windows, Linux, iOS, Office, Teams, Zoom, VS Code, Git and many more. I also love tinkering with my AWS personal account and the occasional Raspberry Pi!
 
->> For a full CV - drop me an e-mail (adam@comeflywithseab.com)
+>> For a full CV - drop me an e-mail (info@comeflywithseab.com)
