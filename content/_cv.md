@@ -37,9 +37,9 @@ Also a RoSPA assessed and qualified driver and trained to assess other drivers i
 
 > AWS Solutions Architect Associate  
 AWS SysOps Administrator Associate  
-AWS Cloud Practitioner 
-Certified Scrum Developer (Scrum Alliance) 
-ITIL V4 Foundation  
+AWS Cloud Practitioner  
+Certified Scrum Developer (Scrum Alliance)  
+ITIL V4 Foundation
 ITIL V3 Foundation  
 ITIL V3 CSI  
 BCS DevOps  
